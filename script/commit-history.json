@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "guizadasaul",
+    "commit": {
+      "date": "2026-05-28T03:11:23.000Z",
+      "message": "feat: calculadora retorna 0 para cadena vacía",
+      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779937830116,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: calculadora retorna 0 para cadena vacía",
+    "commitTimestamp": 1779937884893,
+    "testId": 0
+  }
+]
