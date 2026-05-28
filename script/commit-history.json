@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "94e92ea12abdc6ef92e3ca8e07aa912f7aa3338c",
     "author": "guizadasaul",
     "commit": {
       "date": "2026-05-28T03:21:14.000Z",
       "message": "feat: el guion también puede usarse como separador",
-      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/HEAD"
+      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/94e92ea12abdc6ef92e3ca8e07aa912f7aa3338c"
     },
     "stats": {
       "total": 7,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "guizadasaul",
+    "commit": {
+      "date": "2026-05-28T03:23:55.000Z",
+      "message": "feat: soporte para delimitador personalizado con //[d]",
+      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/HEAD"
+    },
+    "stats": {
+      "total": 24,
+      "additions": 23,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }

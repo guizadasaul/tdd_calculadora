@@ -23,4 +23,8 @@ describe('Calculadora de cadenas', () => {
     expect(calcular('1-2')).toBe(3);
     expect(calcular('1-2,3')).toBe(6);
   });
+
+  it('acepta delimitador personalizado en formato //[d]', () => {
+    expect(calcular('//[;] 6;7;4')).toBe(17);
+  });
 });

@@ -104,9 +104,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "94e92ea12abdc6ef92e3ca8e07aa912f7aa3338c",
     "commitName": "feat: el guion también puede usarse como separador",
     "commitTimestamp": 1779938474676,
     "testId": 4
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1779938561506,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1779938614241,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: soporte para delimitador personalizado con //[d]",
+    "commitTimestamp": 1779938635793,
+    "testId": 5
   }
 ]
