@@ -36,4 +36,9 @@ describe('Calculadora de cadenas', () => {
     expect(calcular('2,1001')).toBe(2);
     expect(calcular('1000,1001')).toBe(1000);
   });
+
+  it('acepta delimitadores de más de un carácter', () => {
+    expect(calcular('//[***] 1***2***3')).toBe(6);
+    expect(calcular('//[abc] 1abc2abc3')).toBe(6);
+  });
 });

@@ -162,9 +162,23 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "aaaf8f0b38efbe133da39480c3c5db16fba73b00",
     "commitName": "feat: números mayores a 1000 se descartan antes de sumar",
     "commitTimestamp": 1779938807022,
     "testId": 7
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1779938839723,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: delimitadores de varios caracteres como *** o abc funcionan",
+    "commitTimestamp": 1779938863790,
+    "testId": 8
   }
 ]

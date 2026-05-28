@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "aaaf8f0b38efbe133da39480c3c5db16fba73b00",
     "author": "guizadasaul",
     "commit": {
       "date": "2026-05-28T03:26:46.000Z",
       "message": "feat: números mayores a 1000 se descartan antes de sumar",
-      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/HEAD"
+      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/aaaf8f0b38efbe133da39480c3c5db16fba73b00"
     },
     "stats": {
       "total": 10,
@@ -148,6 +148,25 @@
     },
     "coverage": 100,
     "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "guizadasaul",
+    "commit": {
+      "date": "2026-05-28T03:27:43.000Z",
+      "message": "feat: delimitadores de varios caracteres como *** o abc funcionan",
+      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }
