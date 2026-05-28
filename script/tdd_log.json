@@ -22,9 +22,47 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "54825e3138fcd3c94654896d6b13ef4772f9735c",
     "commitName": "feat: calcular acepta un solo número en la cadena",
     "commitTimestamp": 1779938051677,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1779938177448,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1779938199703,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1779938211609,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779938229010,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: suma dos números cuando vienen separados por coma",
+    "commitTimestamp": 1779938270397,
+    "testId": 2
   }
 ]

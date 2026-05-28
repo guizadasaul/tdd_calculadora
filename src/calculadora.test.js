@@ -9,4 +9,8 @@ describe('Calculadora de cadenas', () => {
     expect(calcular('5')).toBe(5);
     expect(calcular('42')).toBe(42);
   });
+
+  it('suma dos números separados por coma', () => {
+    expect(calcular('1,2')).toBe(3);
+  });
 });
