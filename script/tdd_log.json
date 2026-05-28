@@ -8,9 +8,23 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "18fa41ee3d7781a8a3b2cd9ac24a9aaaef1a2d46",
     "commitName": "feat: calculadora retorna 0 para cadena vacía",
     "commitTimestamp": 1779937884893,
     "testId": 0
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779938003061,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: calcular acepta un solo número en la cadena",
+    "commitTimestamp": 1779938051677,
+    "testId": 1
   }
 ]

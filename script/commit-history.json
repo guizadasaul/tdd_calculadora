@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "18fa41ee3d7781a8a3b2cd9ac24a9aaaef1a2d46",
     "author": "guizadasaul",
     "commit": {
       "date": "2026-05-28T03:11:23.000Z",
       "message": "feat: calculadora retorna 0 para cadena vacía",
-      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/HEAD"
+      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/18fa41ee3d7781a8a3b2cd9ac24a9aaaef1a2d46"
     },
     "stats": {
       "total": 10,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "guizadasaul",
+    "commit": {
+      "date": "2026-05-28T03:14:11.000Z",
+      "message": "feat: calcular acepta un solo número en la cadena",
+      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
