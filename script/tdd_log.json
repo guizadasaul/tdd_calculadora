@@ -176,9 +176,23 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6501851cea54623ca8d373bc1e9c5a133d6f3e08",
     "commitName": "feat: delimitadores de varios caracteres como *** o abc funcionan",
     "commitTimestamp": 1779938863790,
     "testId": 8
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1779938927326,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: soporte para múltiples delimitadores en formato //[d1][d2]",
+    "commitTimestamp": 1779938948100,
+    "testId": 9
   }
 ]

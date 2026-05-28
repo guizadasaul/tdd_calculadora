@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6501851cea54623ca8d373bc1e9c5a133d6f3e08",
     "author": "guizadasaul",
     "commit": {
       "date": "2026-05-28T03:27:43.000Z",
       "message": "feat: delimitadores de varios caracteres como *** o abc funcionan",
-      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/HEAD"
+      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/6501851cea54623ca8d373bc1e9c5a133d6f3e08"
     },
     "stats": {
       "total": 5,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "guizadasaul",
+    "commit": {
+      "date": "2026-05-28T03:29:07.000Z",
+      "message": "feat: soporte para múltiples delimitadores en formato //[d1][d2]",
+      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 11,
     "failed_tests": 0,
     "conclusion": "success"
   }
