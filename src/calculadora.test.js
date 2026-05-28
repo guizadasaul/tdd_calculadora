@@ -31,4 +31,9 @@ describe('Calculadora de cadenas', () => {
   it('combina delimitador personalizado con separadores por defecto', () => {
     expect(calcular('//[;] 6,3-2;1')).toBe(12);
   });
+
+  it('ignora números mayores a 1000', () => {
+    expect(calcular('2,1001')).toBe(2);
+    expect(calcular('1000,1001')).toBe(1000);
+  });
 });

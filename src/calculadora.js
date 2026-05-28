@@ -18,5 +18,8 @@ export default function calcular(cadena) {
   if (cadena === '') return 0;
   const { delimitadores, resto } = extraerInfo(cadena);
   const regex = construirRegex(delimitadores);
-  return resto.split(regex).reduce((acc, n) => acc + Number(n.trim()), 0);
+  return resto.split(regex)
+    .map(n => Number(n.trim()))
+    .filter(n => n <= 1000)
+    .reduce((acc, n) => acc + n, 0);
 }

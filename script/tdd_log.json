@@ -140,9 +140,31 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b2322c96fdab7d51d00bfc33412c773790c563a8",
     "commitName": "feat: delimitador personalizado coexiste con coma y guion",
     "commitTimestamp": 1779938711353,
     "testId": 6
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1779938751562,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1779938786108,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: números mayores a 1000 se descartan antes de sumar",
+    "commitTimestamp": 1779938807022,
+    "testId": 7
   }
 ]
