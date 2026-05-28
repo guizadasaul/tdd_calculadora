@@ -126,9 +126,23 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "7c182488a7305fbc7847d697f6e398fdbf939719",
     "commitName": "feat: soporte para delimitador personalizado con //[d]",
     "commitTimestamp": 1779938635793,
     "testId": 5
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1779938690985,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: delimitador personalizado coexiste con coma y guion",
+    "commitTimestamp": 1779938711353,
+    "testId": 6
   }
 ]
