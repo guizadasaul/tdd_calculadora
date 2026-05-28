@@ -82,9 +82,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "492d14855ccd6655871bf73d93c015305fdcaf15",
     "commitName": "feat: soporte para N números separados por coma",
     "commitTimestamp": 1779938389936,
     "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1779938431198,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1779938448000,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: el guion también puede usarse como separador",
+    "commitTimestamp": 1779938474676,
+    "testId": 4
   }
 ]

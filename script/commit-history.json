@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "492d14855ccd6655871bf73d93c015305fdcaf15",
     "author": "guizadasaul",
     "commit": {
       "date": "2026-05-28T03:19:49.000Z",
       "message": "feat: soporte para N números separados por coma",
-      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/HEAD"
+      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/492d14855ccd6655871bf73d93c015305fdcaf15"
     },
     "stats": {
       "total": 8,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "guizadasaul",
+    "commit": {
+      "date": "2026-05-28T03:21:14.000Z",
+      "message": "feat: el guion también puede usarse como separador",
+      "url": "https://github.com/guizadasaul/tdd_calculadora/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 6,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

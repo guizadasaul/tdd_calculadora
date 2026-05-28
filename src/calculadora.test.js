@@ -18,4 +18,9 @@ describe('Calculadora de cadenas', () => {
     expect(calcular('1,2,3')).toBe(6);
     expect(calcular('1,2,3,4')).toBe(10);
   });
+
+  it('acepta guion como separador alternativo', () => {
+    expect(calcular('1-2')).toBe(3);
+    expect(calcular('1-2,3')).toBe(6);
+  });
 });
