@@ -13,4 +13,9 @@ describe('Calculadora de cadenas', () => {
   it('suma dos números separados por coma', () => {
     expect(calcular('1,2')).toBe(3);
   });
+
+  it('suma múltiples números separados por coma', () => {
+    expect(calcular('1,2,3')).toBe(6);
+    expect(calcular('1,2,3,4')).toBe(10);
+  });
 });

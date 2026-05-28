@@ -60,9 +60,31 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a61595e55f9360c2ea1147a32b01b6b645be5910",
     "commitName": "feat: suma dos números cuando vienen separados por coma",
     "commitTimestamp": 1779938270397,
     "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1779938349961,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779938367681,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: soporte para N números separados por coma",
+    "commitTimestamp": 1779938389936,
+    "testId": 3
   }
 ]
